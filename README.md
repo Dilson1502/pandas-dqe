@@ -1,9 +1,5 @@
 # pandas-dqe
 
-Pandas DataFrame Data Quality Engine
-
-# pandas-dqe
-
 Pandas DataFrame Data Quality Engine, decorators to enhace function schema validation before and after transformation execution.
 
 ## Authors
