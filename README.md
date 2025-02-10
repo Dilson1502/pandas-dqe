@@ -100,7 +100,8 @@ data = {
 
 df_input = pd.DataFrame(data)
 
-transform_data(df_input)
+df_output = transform_data(df_input)
+print(df_output)
 ```
 
 Errors will arise otherwise your transformation will continue as expected!
